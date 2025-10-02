@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color:#b9d9d9;
+  font-family:helvetica;
+  color: #1f2937;
+}
+
+header{
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+main{
+  max-width: 1200px;
+  margin: 10px auto 10px;
+}
+
+#banner{
+  margin:10px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+#servicos{
+  margin:10px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+#atendimento{
+  margin:10px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+#servicos ul{
+  margin: 20px;
+}
+
+#servicos ul li{
+  padding-top: 5px;
+}
+
+footer{
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+.banner{
+  width: 400px;
+  margin: auto;
+  display: block;
+}
